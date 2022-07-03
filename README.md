@@ -1,1 +1,1 @@
-# Not much here! See https://git.sr.ht/~otl
+# Not much here! See https://git.sr.ht/~otl instead
