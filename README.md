@@ -1,1 +1,1 @@
-# Not much here! See https://git.sr.ht/~otl instead
+# Not much here! See https://git.olowe.co instead
